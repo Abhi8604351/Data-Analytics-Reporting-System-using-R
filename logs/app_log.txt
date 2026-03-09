@@ -1,0 +1,25 @@
+[2026-03-01 02:47:50.500493] [INFO] [SYSTEM] System Session Initialized Successfully.
+[2026-03-01 02:47:50.901672] [INFO] [SYSTEM] System Session Initialized Successfully.
+[2026-03-01 02:49:44.797091] [INFO] [SYSTEM] Uploaded File: crypto50_combined.csv | Rows: 115072
+[2026-03-01 02:53:48.691243] [INFO] [SYSTEM] Uploaded File: ultimate_student_productivity_dataset_5000.csv | Rows: 5000
+[2026-03-01 02:54:56.983367] [INFO] [SYSTEM] Outlier Analysis Completed on 1 columns.
+[2026-03-01 02:55:12.540901] [INFO] [SYSTEM] Outlier Analysis Completed on 3 columns.
+[2026-03-01 02:55:34.099967] [INFO] [SYSTEM] Outlier Analysis Completed on 5 columns.
+[2026-03-01 02:56:25.327903] [INFO] [SYSTEM] Outlier Analysis Completed on 5 columns.
+[2026-03-01 02:56:34.062991] [INFO] [SYSTEM] Outlier Analysis Completed on 5 columns.
+[2026-03-01 02:56:37.110834] [INFO] [SYSTEM] Outlier Analysis Completed on 5 columns.
+[2026-03-01 02:56:48.552538] [INFO] [SYSTEM] Outlier Analysis Completed on 2 columns.
+[2026-03-01 02:56:49.773994] [INFO] [SYSTEM] Outlier Analysis Completed on 2 columns.
+[2026-03-01 02:56:53.433968] [INFO] [SYSTEM] Outlier Analysis Completed on 2 columns.
+[2026-03-01 02:56:56.124771] [INFO] [SYSTEM] Outlier Analysis Completed on 2 columns.
+[2026-03-01 02:57:04.205518] [INFO] [SYSTEM] Outlier Analysis Completed on 2 columns.
+[2026-03-01 02:57:10.821339] [INFO] [SYSTEM] Outlier Analysis Completed on 3 columns.
+[2026-03-01 03:04:38.983714] [INFO] [SYSTEM] System Session Initialized Successfully.
+[2026-03-01 03:05:02.31414] [INFO] [SYSTEM] Uploaded File: ultimate_student_productivity_dataset_5000.csv | Rows: 5000
+[2026-03-01 03:05:44.872964] [INFO] [SYSTEM] Outlier Analysis Completed on 5 columns.
+[2026-03-01 03:06:19.164805] [INFO] [SYSTEM] Model trained using: rf | Primary Metric: RMSE : 1.93262402209104
+[2026-03-01 03:06:40.64969] [INFO] [SYSTEM] Model trained using: rf | Primary Metric: RMSE : 1.93262402209104
+[2026-03-01 03:10:46.197134] [INFO] [SYSTEM] System Session Initialized Successfully.
+[2026-03-01 03:11:19.937168] [INFO] [SYSTEM] Uploaded File: crypto50_combined.csv | Rows: 115072
+[2026-03-01 03:28:50.211204] [INFO] [SYSTEM] System Session Initialized Successfully.
+[2026-03-01 03:29:01.123691] [INFO] [SYSTEM] Uploaded File: ultimate_student_productivity_dataset_5000.csv | Rows: 5000

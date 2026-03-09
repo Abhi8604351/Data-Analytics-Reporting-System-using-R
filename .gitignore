@@ -1,0 +1,6 @@
+R_library/
+temp_cache/
+logs/
+.Rhistory
+.RData
+.Rproj.user
